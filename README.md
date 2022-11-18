@@ -1,1 +1,1 @@
-# battle-of-rune-gems
+# Battle-of-Rune-Gems
